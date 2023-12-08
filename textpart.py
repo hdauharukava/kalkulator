@@ -1,0 +1,5 @@
+print(f"What do you want to do?\n1.Subtract\n2.Add\n3.Multiply\n4.Divide\n5.Exponentiation\n6.Root")
+added_number = int(input('Choose one option: '))
+print(f"Add your x and y: ")
+x = int(input('Write x: '))
+y = int(input('Write y: '))
