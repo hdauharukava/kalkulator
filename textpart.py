@@ -9,7 +9,7 @@ added_number = int(input('Choose one option: '))
 
 print(f"Add your x and y: ")
 
-if added_number == 6:
+if added_number == 7:
     x = int(input('Write x: '))
 else:
     x = float(input('Write x: '))
