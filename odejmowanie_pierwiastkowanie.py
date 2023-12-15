@@ -1,7 +1,9 @@
 import math
-def odejmowanie(a, b):
-    return a-b
-def pierwiastkowanie(a)
+
+
+def subtraction(a, b):
+    return a - b
+
+
+def root(a):
     return math.sqrt(a)
-
-
