@@ -1,11 +1,10 @@
-## Dodawanie 
-import math
-def dodawanie(a,b):
-    wynik = a+b 
-    return wynik 
-def potęgowanie(a,b):
-    wynik = a**b 
-    return wynik
+  
+def addnumbers(a,b):
+    return a+b
+ 
+
+def exponentiation(a,b):
+    return a**b
  
 
    
